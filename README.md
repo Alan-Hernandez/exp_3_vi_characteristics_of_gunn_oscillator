@@ -14,7 +14,7 @@ Gunn power supply, Gunn oscillator, PIN modulator, isolator, frequency meter, va
 
 ## Experimental Setup
 
-<img width="926" height="198" alt="image" src="https://github.com/user-attachments/assets/d2573202-d481-4834-b698-77ecdb5e0941" />
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/9572ed54-7f9f-413c-b568-c08d9049d680" />
 
 ---
 
